@@ -1,0 +1,77 @@
+{
+    "project": {},
+    "files": {
+        "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/helpers/page-title.js": {
+            "name": "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/helpers/page-title.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/services/page-title-list.js": {
+            "name": "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/services/page-title-list.js",
+            "modules": {},
+            "classes": {
+                "page-title-list": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {},
+    "classes": {
+        "page-title-list": {
+            "name": "page-title-list",
+            "shortname": "page-title-list",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/services/page-title-list.js",
+            "line": 5,
+            "extends": "Ember.Service"
+        }
+    },
+    "elements": {},
+    "classitems": [
+        {
+            "file": "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/helpers/page-title.js",
+            "line": 9,
+            "description": "`{{page-title}}` is used to communicate with",
+            "access": "public",
+            "tagname": "",
+            "itemtype": "method",
+            "name": "page-title",
+            "class": "page-title-list"
+        },
+        {
+            "file": "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/services/page-title-list.js",
+            "line": 17,
+            "description": "The default separator to use between tokens.",
+            "itemtype": "property",
+            "name": "defaultSeparator",
+            "default": "' | '",
+            "class": "page-title-list"
+        },
+        {
+            "file": "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/services/page-title-list.js",
+            "line": 25,
+            "description": "The default prepend value to use.",
+            "itemtype": "property",
+            "name": "defaultPrepend",
+            "default": "null",
+            "class": "page-title-list"
+        },
+        {
+            "file": "/Users/tevans3/bakery/ember-page-title/tmp/broccoli_yuidoc-input_base_path-riIf2kaF.tmp/services/page-title-list.js",
+            "line": 33,
+            "description": "The default replace value to use.",
+            "itemtype": "property",
+            "name": "defaultReplace",
+            "default": "null",
+            "class": "page-title-list"
+        }
+    ],
+    "warnings": []
+}
