@@ -11,7 +11,10 @@ module.exports = {
 
     this.app.registry.add('htmlbars-ast-plugin', {
       name: 'transform-document-title-component-to-title-helper',
-      plugin: TransformComponentToHelper
+      plugin: TransformComponentToHelper,
+      baseDir: function() {
+        return __dirname;
+      }
     });
   }
 };
